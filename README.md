@@ -1,4 +1,4 @@
 # pipeline-framework
 run python job on local docker hub  
 ## work flow 
-[!(image-url)](https://docs.google.com/drawings/d/1my2jYG2G98_kwXLJVH3NfaiMcoKE812IHYNR8RHb_Uw/edit?usp=sharing)
+![drawing](https://docs.google.com/drawings/d/e/2PACX-1vTsgexDNIBZ6w6r86DFJmIPmJuKCdXU3Zuv9Cd8Aiqfcvw_OaJRKipkQ5NwqG-DGv4hCWJedurmcWZ9/pub?w=960&h=720)
